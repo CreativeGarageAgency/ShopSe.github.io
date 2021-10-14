@@ -64,9 +64,6 @@ body, html {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    /* margin: auto; */
-    -webkit-filter: drop-shadow(0px 1px 1px rgba(255, 255, 255, 0.421));
-    filter: drop-shadow(0px 1px 1px rgba(255, 255, 255, 0.421));
 }
 
 .shopse-header-row {
