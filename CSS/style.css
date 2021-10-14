@@ -12,10 +12,6 @@
     src: url('../coolvetica rg.ttf');
 }
 
-@font-face {
-    font-family: coolvetica1;
-    src: url('../coolvetica condensed rg.ttf');
-}
 
 @font-face {
     font-family: CircularXX__Light;
@@ -515,12 +511,12 @@ body, html {
     /* border: 1px solid white; */
 }
 
-.col-lg-eligible h2 {
+.col-lg-eligible h3 {
     color: white;
-    font-family: 'coolvetica1';
-    letter-spacing: 0.03em;
+    font-family: 'coolvetica';
+    letter-spacing: 0.04em;
     /* font-weight: 300; */
-    font-size: calc(28pt + 0.15vw);
+    font-size: calc(20pt + 0.15vw);
 }
 
 .col-lg-eligible input {
@@ -602,8 +598,8 @@ body, html {
     #marquee h2 {
         font-size: calc(18pt + 0.15vw);
     }
-    .col-lg-eligible h2 {
-        font-size: calc(22pt + 0.15vw);
+    .col-lg-eligible h3 {
+        font-size: calc(16pt + 0.15vw);
     }
 }
 
